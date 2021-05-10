@@ -1,0 +1,28 @@
+
+#div1{
+    color: whitesmoke;
+    text-align: center;
+}
+.dis{
+    text-align: center;
+    justify-content: flex-start;
+    margin-top: 20vh;
+    color:whitesmoke;
+    font-style: oblique;
+}
+input{
+    
+    padding: 10px 10px;
+    border-radius: 10px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    background-color:darkgray;
+}
+
+#but{
+    background-color: cornflowerblue;
+    padding: 10px 10px;
+    border: white solid;
+    border-radius: 10px 10px;
+    color:indigo
+}
